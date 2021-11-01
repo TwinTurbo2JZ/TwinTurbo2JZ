@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TwinTurbo2JZ
 - 👀 I’m interested in JDM Cars and web developement
-- 🌱 I’m currently learning Redux
-- 💞️ I’m looking to collaborate on Mern Stack Projects
+- 🌱 I’m currently learning full stack developement
+- 💞️ I’m looking to collaborate on mern projects
 - 📫Hit me up on discord: Twin Turbo#4190
 
 <!---
